@@ -5,3 +5,6 @@ __pycache__/
 bot_efigas.log
 PDFs/
 Pdfs/
+CLAUDE.md
+.env
+.env.example
